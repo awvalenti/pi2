@@ -1,0 +1,48 @@
+ul {
+    padding-left: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+li a {
+    display: block;
+    padding: 5px;
+    border-bottom: thin solid black;
+    font-size: 14pt;
+}
+
+li a:link {
+    text-decoration: none;
+}
+
+li a:visited {
+    color: cornflowerblue;
+}
+
+li a:hover {
+    background-color: #DDDDFF;
+}
+
+li:first-child a {
+    border-top: thin solid black;
+}
+
+h1 {
+    color: darkgreen;
+    border-bottom: thin dotted gray;
+}
+
+section {
+    background-color: whitesmoke;
+    padding: 3px;
+    padding-left: 15px;
+    margin-bottom: 15px;
+    border-radius: 30px;
+}
+
+section h2 {
+    color: cadetblue;
+    cursor: pointer;
+}
