@@ -1,0 +1,9 @@
+Fazer, em qualquer ordem, as seguinte alterações na versão 3 do webmail:
+
+1) Acrescentar um novo e-mail enviado e um novo e-mail rascunho
+2) Mudar para marrom a cor dos títulos "Caixa de Entrada", "Rascunhos" e "Itens Enviados"
+3) Incluir uma nova seção: "Itens Excluídos"
+4) Remover as linhas pretas horizontais
+5) Aumentar a duração da animação de contrair/expandir seção
+6) Eliminar as bordas arredondadas das seções
+7) Fazer que, ao contrair seção, seja exibido um alerta na tela
